@@ -4,6 +4,20 @@
 **Domain:** Healthcare Supply Chain | Medical Supplies | Procurement Analytics  
 **Timeline:** 2 years of monthly data (Jan 2023 – Dec 2024) | 10 product lines | 4 suppliers
 
+## 📸 Dashboard Preview
+
+### 2023 View
+![Dashboard 2023](Dashboard_2023.png)
+
+### 2024 View
+![Dashboard 2024](Dashboard_2024.png)
+
+---
+
+## 🔗 Live Dashboard
+
+[![Power BI Dashboard](https://img.shields.io/badge/Power%20BI-View%20Live%20Dashboard-F2C811?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/groups/me/reports/50a414b8-730d-40d9-9242-ee59b4e9882e/3121401b70aa3684295b?experience=power-bi)
+
 ---
 
 ## 🔍 Business Problem
