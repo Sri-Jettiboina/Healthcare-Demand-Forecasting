@@ -43,16 +43,11 @@ This project simulates a real-world healthcare supply chain analytics scenario (
 ## 📁 Project Structure
 
 ```
-healthcare-demand-forecasting/
-│
-├── data/
-│   ├── demand_forecasting_dataset.xlsx    # Raw supply chain data (3 sheets)
-│   └── forecast_data_fixed.xlsx           # Cleaned forecast data for Power BI
-│
-├── dashboard/
-│   ├── Demand_Forecasting_Dashboard.pbix  # Power BI dashboard
-│   └── dashboard_screenshot.png           # Dashboard preview
-│
+├── demand_forecasting_dataset.xlsx    # Raw supply chain data (3 sheets)
+├── forecast_data_fixed.xlsx           # Cleaned forecast data for Power BI
+├── Demand_Forecasting_Uma.pbix        # Power BI dashboard file
+├── Dashboard_2023.png                 # Dashboard screenshot 2023
+├── Dashboard_2024.png                 # Dashboard screenshot 2024
 └── README.md
 ```
 
@@ -148,7 +143,7 @@ Built in **Power BI** with custom navy blue theme:
 
 1. Download `demand_forecasting_dataset.xlsx`
 2. Open the **Forecast Prep** sheet to explore the forecasting model
-3. Open `Demand_Forecasting_Dashboard.pbix` in Power BI Desktop
+3. Open `Demand_Forecasting_Uma.pbix` in Power BI Desktop
 4. Use the **Year slicer** to toggle between 2023 and 2024
 5. Click any visual to cross-filter the dashboard
 
