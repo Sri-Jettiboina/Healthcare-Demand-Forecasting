@@ -155,7 +155,7 @@ Built in **Power BI** with custom navy blue theme:
 Supply Chain Analytics Manager | Cigna Health  
 Jersey City, NJ | Open to Relocation  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://lnkd.in/gbRu2PMt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sri-devi-9301401a4/)
 [![Email](https://img.shields.io/badge/Email-srijettiboina06%40gmail.com-D14836?style=flat&logo=gmail)](mailto:srijettiboina06@gmail.com)
 
 ---
